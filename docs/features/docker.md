@@ -110,7 +110,7 @@ Read more about application state management [here](http://localhost:4000/docs/u
 
 ### Development environment
 
-You may want to tell Developers to program inside a container to keep a consistant environment between develoment, test and production.
+You may want to tell Developers to program inside a container to keep a consistent environment between develoment, test and production.
 
 Replacing **pm2-runtime** with **pm2-dev** will enable the watch and restart features. This is quite interesting in a development container when the host files are exposed to the container as a VOLUME.
 
